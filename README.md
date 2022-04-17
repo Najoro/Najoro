@@ -1,4 +1,5 @@
-<h1>
+<div style ="background:black; padding:1rem 2rem">
+  <h1>
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="click" width="30px"/>
 </h1>
@@ -21,7 +22,7 @@
 
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
+<h3> <img src="./hammer-and-wrench-icon-vector-6201262.jpg " width="30"> Languages and Tools</h3>
 
 <div id="tecno" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" width="40"/>&nbsp;&nbsp;&nbsp;
@@ -38,7 +39,7 @@
 </div>
 <hr>
 
-### :fire: My Stats :
+<h3> <img src="./fire.png" width="30"> MY Stat</h3>
 
  <div id="stat" align="center">
    <a href="https://git.io/streak-stats">
@@ -48,3 +49,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najoro&layout=compact&theme=dark">
   </a>
  </div>
+</div>
