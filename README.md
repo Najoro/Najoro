@@ -40,9 +40,6 @@
 <hr style = "height:0.5px" > <!------------------------------------------------------------------------------------->
 <h3> <img src="./fire.png" width="15"> MY Stat</h3>
  <div id="stat" align="center">
-    <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=najoro&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=DD2727&stroke=DDCA1A&ring=DDCA1A&fire=DD375D&currStreakNum=3BBEDD&sideNums=80DDCF&currStreakLabel=4BDDCD&sideLabels=44DDCC&dates=42DDC2">
-    </a> </br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najoro&layout=compact&theme=dark">
   </a>
