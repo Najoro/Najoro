@@ -20,7 +20,16 @@
   </div>
 </div>
 
-<hr style = "height:0.5px" > <!------------------------------------------------------------------------------------->
+  <hr style = "height:0.5px" > 
+  <!---------------------------------------------------------------------------------------------------------------------------------------------------->
+<h3> width="15"> About Me</h3>
+  
+- 👋 Salut, je suis RAHERIMANANTSOA Najoro Fanantenana
+- 👀 Je suis intéressé par tous ce qui est progrmation et nouvelle technologie
+- 🌱 J'apprends actuellement le Javascript et le langage C
+  
+<hr style = "height:0.5px" > 
+ <!---------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h3> <img src="./tool.png " width="15"> Languages and Tools</h3>
 <div id="tecno" align="center">
@@ -37,7 +46,8 @@
 </div>
 
 
-<hr style = "height:0.5px" > <!------------------------------------------------------------------------------------->
+<hr style = "height:0.5px" > 
+ <!---------------------------------------------------------------------------------------------------------------------------------------------------->
 <h3> <img src="./fire.png" width="15"> MY Stat</h3>
  <div id="stat" align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
