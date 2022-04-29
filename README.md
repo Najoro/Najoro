@@ -22,7 +22,7 @@
 
   <hr style = "height:0.5px" > 
   <!---------------------------------------------------------------------------------------------------------------------------------------------------->
-<h3> width="15"> About Me</h3>
+<h3> About Me</h3>
   
 - 👋 Salut, je suis RAHERIMANANTSOA Najoro Fanantenana
 - 👀 Je suis intéressé par tous ce qui est progrmation et nouvelle technologie
