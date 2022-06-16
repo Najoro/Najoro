@@ -1,8 +1,9 @@
 <div style ="background:black; padding:1rem 2rem">
   <h1>
-    Hey There
+<!--     Hey There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="click" width="30px"/>
-  </h1>
+  </h1> -->
+    <h1>Bienvenue</h1>
 
 <div id="header" align="center">
 
