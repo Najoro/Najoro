@@ -23,11 +23,6 @@
 
   <hr style = "height:0.5px" > 
   <!---------------------------------------------------------------------------------------------------------------------------------------------------->
-<h3> About Me</h3>
-  
-- 👋 Salut, je suis RAHERIMANANTSOA Najoro Fanantenana
-- 👀 Je suis intéressé par tous ce qui est progrmation et nouvelle technologie
-- 🌱 J'apprends actuellement le Javascript et le langage C
   
 <hr style = "height:0.5px" > 
  <!---------------------------------------------------------------------------------------------------------------------------------------------------->
