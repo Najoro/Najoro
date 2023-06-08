@@ -1,4 +1,6 @@
-<table width = "600px">
+<h1 align="center"> Hi, I'm Najoro! 👋</h1>
+
+<table width = "600px" align="center">
     <tr>
         <td>
             <h2 align = "center"> Reseaux Sociaux</h2> 
