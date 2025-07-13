@@ -1,66 +1,9 @@
 <!-- Banner -->
 <p align="center">
   <img class="flag-animate" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" width="60" alt="Madagascar" style="vertical-align:middle; margin-left:10px;" />
-<style>
-  .flag-animate {
-    animation: wave 1.5s infinite linear;
-    transform-origin: 70% 70%;
-    display: inline-block;
-  }
-  @keyframes wave {
-    0% { transform: rotate(0deg); }
-    10% { transform: rotate(-2deg); }
-    20% { transform: rotate(2deg); }
-    30% { transform: rotate(-2deg); }
-    40% { transform: rotate(2deg); }
-    50% { transform: rotate(-2deg); }
-    60% { transform: rotate(2deg); }
-    70% { transform: rotate(-2deg); }
-    80% { transform: rotate(2deg); }
-    90% { transform: rotate(-2deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
 </p>
 
 <h1 align="center" class="gradient-title">Hi, I'm Najoro! 👋</h1>
-<style>
-  .flag-animate {
-    animation: wave 1.5s infinite linear;
-    transform-origin: 70% 70%;
-    display: inline-block;
-  }
-  @keyframes wave {
-    0% { transform: rotate(0deg); }
-    10% { transform: rotate(-2deg); }
-    20% { transform: rotate(2deg); }
-    30% { transform: rotate(-2deg); }
-    40% { transform: rotate(2deg); }
-    50% { transform: rotate(-2deg); }
-    60% { transform: rotate(2deg); }
-    70% { transform: rotate(-2deg); }
-    80% { transform: rotate(2deg); }
-    90% { transform: rotate(-2deg); }
-    100% { transform: rotate(0deg); }
-  }
-  .gradient-title {
-    background: linear-gradient(90deg, #ff9800, #ff5e62, #2196f3, #4caf50);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient-move 3s infinite linear;
-  }
-  @keyframes gradient-move {
-    0% { background-position: 0% 50%; }
-    100% { background-position: 100% 50%; }
-  }
-  .competence-icon {
-    transition: box-shadow 0.3s, transform 0.2s;
-  }
-  .competence-icon:hover {
-    box-shadow: 0 0 20px #ff9800, 0 0 40px #2196f3;
-    transform: scale(1.15) rotate(-5deg);
-  }
-</style>
 
 <p align="center">
 <b>Développeur passionné par le web, le mobile et l'open source.<br>
