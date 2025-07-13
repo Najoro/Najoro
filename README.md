@@ -114,7 +114,7 @@ Toujours prêt à apprendre et à relever de nouveaux défis !</b>
   <a href="mailto:najofanantenana@gmail.com"> <img src="https://img.shields.io/badge/E.Mail-red?logo=mail&logoColor=red&style=for-the-badge" alt="mail"></a>
   <a href="https://www.linkedin.com/in/najofanantenana/"> <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"></a>
   <a href="https://github.com/Najoro"> <img src="https://img.shields.io/badge/Github-orange?logo=github&logoColor=black&style=for-the-badge"alt="Github"></a>
-  <a href="https://portfolio-najoro.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-green?logo=internet-explorer&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://portfolio-najoro.vercel.app " target="_blank"> <img src="https://img.shields.io/badge/Portfolio-green?logo=internet-explorer&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 <!-- Footer -->
@@ -122,19 +122,4 @@ Toujours prêt à apprendre et à relever de nouveaux défis !</b>
 <p align="center">
   <b>✨ « Code. Learn. Share. Repeat. » ✨</b>
 </p>
-<style>
-  .emoji-animate {
-    animation: emoji-bounce 1.2s infinite;
-    display: inline-block;
-  }
-  @keyframes emoji-bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  .competence-icon:hover {
-    filter: drop-shadow(0 0 8px #ff9800);
-    transform: scale(1.15);
-    transition: all 0.2s;
-  }
-</style>
 <!-- Badges GitHub -->
