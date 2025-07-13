@@ -55,7 +55,6 @@ Toujours prêt à apprendre et à relever de nouveaux défis !</b>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" alt="Swagger" />
         <img src="./dbeaver.png" width="50" alt="DBeaver" />
         <img src="./fork.png" width="50" alt="Fork" />
-        <img src="https://www.phpmyadmin.net/static/images/logo_right.png" width="50" alt="phpMyAdmin" />
       </p>
     </td>
   </tr>
