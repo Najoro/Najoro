@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img class="flag-animate" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" width="60" alt="Madagascar" style="vertical-align:middle; margin-left:10px;" />
+  <img class="flag-animate" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" width="50" alt="Madagascar" style="vertical-align:middle; margin-left:10px;" />
 </p>
 
 <h1 align="center" class="gradient-title">Hi, I'm Najoro! 👋</h1>
@@ -25,36 +25,37 @@ Toujours prêt à apprendre et à relever de nouveaux défis !</b>
     <td align="center" valign="top">
       <h2>🛠️ Compétences</h2>
       <p>
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" width="40"/>
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" />
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40"/>
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap " width="40"/>
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="C" width="40" />
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" />
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" />
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" />
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" />
-        <img class="competence-icon" src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" />
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" />
-        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="40" />
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" width="50"/>
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="50" />
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50"/>
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50"/>
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="50"/>
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap " width="50"/>
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="C" width="50" />
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" />
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" />
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" />
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" />
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="50" />
+        <img class="competence-icon" src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" />
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" />
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" />
+        <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="50" />
       </p>
     </td>
     <td align="center" valign="top">
       <h2>🧰 Tools</h2>
       <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" />
-        <img src="./sublimetext-svgrepo-com.svg" width="40" alt="Sublime Text" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" alt="Swagger" />
-        <img src="./dbeaver.png" width="40" alt="DBeaver" />
-        <img src="./fork.png" width="40" alt="Fork" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="50" />
+        <img src="./sublimetext-svgrepo-com.svg" width="50" alt="Sublime Text" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" alt="Swagger" />
+        <img src="./dbeaver.png" width="50" alt="DBeaver" />
+        <img src="./fork.png" width="50" alt="Fork" />
+        <img src="https://www.phpmyadmin.net/static/images/logo_right.png" width="50" alt="phpMyAdmin" />
       </p>
     </td>
   </tr>
