@@ -20,7 +20,6 @@ Toujours prêt à apprendre et à relever de nouveaux défis !</b>
 </p>
 
 <!-- Skills and Tools Grid -->
-<h2 align="center">🛠️ Compétences & 🧰 Tools</h2>
 <table width="100%">
   <tr>
     <td align="center" valign="top">
@@ -56,7 +55,6 @@ Toujours prêt à apprendre et à relever de nouveaux défis !</b>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" alt="Swagger" />
         <img src="./dbeaver.png" width="40" alt="DBeaver" />
         <img src="./fork.png" width="40" alt="Fork" />
-        <img src="https://www.phpmyadmin.net/static/images/logo_right.png" width="40" alt="phpMyAdmin" />
       </p>
     </td>
   </tr>
