@@ -1,3 +1,4 @@
+  
 <!-- Banner -->
 <p align="center">
   <img class="flag-animate" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" width="60" alt="Madagascar" style="vertical-align:middle; margin-left:10px;" />
@@ -35,6 +36,24 @@ Toujours prêt à apprendre et à relever de nouveaux défis !</b>
   <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />
   <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" />
   <img class="competence-icon" src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" />
+  <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
+  <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" />
+  <img class="competence-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="40" />
+</p>
+
+<!-- Tools -->
+<h2 align="center">🧰 Tools</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" />
+  <img src="./sublimetext-svgrepo-com.svg" width="40" alt="Sublime Text" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" alt="Swagger" />
+  <img src="./dbeaver.png" width="40" alt="DBeaver" />
+  <img src="./fork.png" width="40" alt="Fork" />
+</p>
 </p>
 
 <!-- Statistiques -->
