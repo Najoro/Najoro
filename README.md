@@ -10,12 +10,13 @@
 Toujours prêt à apprendre et à relever de nouveaux défis !</b>
 </p>
 
-<!-- Badges GitHub -->
+<!-- Contact -->
+<h2 align="center">📬 Contact</h2>
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Najoro/Najoro?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/Najoro/Najoro?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/Najoro/Najoro?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/Najoro/Najoro?style=for-the-badge" />
+  <a href="mailto:najofanantenana@gmail.com"> <img src="https://img.shields.io/badge/E.Mail-red?logo=mail&logoColor=red&style=for-the-badge" alt="mail"></a>
+  <a href="https://www.linkedin.com/in/najofanantenana/"> <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"></a>
+  <a href="https://github.com/Najoro"> <img src="https://img.shields.io/badge/Github-orange?logo=github&logoColor=black&style=for-the-badge"alt="Github"></a>
+  <a href="https://portfolio-najoro.vercel.app " target="_blank"> <img src="https://img.shields.io/badge/Portfolio-green?logo=internet-explorer&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 <!-- Skills Grid -->
@@ -51,14 +52,7 @@ Toujours prêt à apprendre et à relever de nouveaux défis !</b>
   <li><a href="https://github.com/Najoro/Projet3">Projet3</a> – Dashboard interactif avec Chart.js et React.</li>
 </ul> -->
 
-<!-- Contact -->
-<h2 align="center">📬 Contact</h2>
-<p align="center">
-  <a href="mailto:najofanantenana@gmail.com"> <img src="https://img.shields.io/badge/E.Mail-red?logo=mail&logoColor=red&style=for-the-badge" alt="mail"></a>
-  <a href="https://www.linkedin.com/in/najofanantenana/"> <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"></a>
-  <a href="https://github.com/Najoro"> <img src="https://img.shields.io/badge/Github-orange?logo=github&logoColor=black&style=for-the-badge"alt="Github"></a>
-  <a href="https://portfolio-najoro.vercel.app " target="_blank"> <img src="https://img.shields.io/badge/Portfolio-green?logo=internet-explorer&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
-</p>
+
 
 <!-- Footer -->
 <hr>
